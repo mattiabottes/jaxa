@@ -1,7 +1,5 @@
 {
-  "tiles": [
-    "https://api.mapbox.com/raster/v1/mapbox.mapbox-terrain-dem-v1/{z}/{x}/{y}.webp?sku=101vQJvhwKFYH&access_token=pk.eyJ1IjoibWF0dGlhYm90dGVzIiwiYSI6ImNrc2FlaWprcTA3ZGgycXMyOTY0a2I1eWYifQ.cOBHJxlOf7nkugCeWYBm-w"
-  ],
+  "tiles": ["custom-terrain://api.mapbox.com/raster/v1/mapbox.mapbox-terrain-dem-v1/{z}/{x}/{y}.webp"],
   "name": "jaxa_terrainrgb_N047E011",
   "format": "png",
   "basename": "jaxa_terrainrgb_N047E011",
@@ -9,7 +7,7 @@
   "description": "jaxa_terrainrgb_N047E011",
   "version": "1",
   "type": "baselayer",
-  "attribution": "<a href=\"https://earth.jaxa.jp/en/data/policy/\">AW3D30 (JAXA)</a>",
+  "attribution": "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>",
   "minzoom": 0,
   "maxzoom": 12,
   "bounds": [-180, -85.05112877980659, 180, 85.0511287798066],
