@@ -1,6 +1,6 @@
 {
   "tiles": [
-    "https://api.mapbox.com/raster/v1/mapbox.mapbox-terrain-dem-v1/{z}/{x}/{y}.webp?sku=101vQJvhwKFYH&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY5YzJzczA2ejIzM29hNGQ3emFsMXgifQ.az9JUrQP7klCgD3W-ueILQ"
+    "https://api.mapbox.com/raster/v1/mapbox.mapbox-terrain-dem-v1/{z}/{x}/{y}.webp?sku=101vQJvhwKFYH&access_token=pk.eyJ1IjoibWF0dGlhYm90dGVzIiwiYSI6ImNrc2FlaWprcTA3ZGgycXMyOTY0a2I1eWYifQ.cOBHJxlOf7nkugCeWYBm-w"
   ],
   "name": "jaxa_terrainrgb_N047E011",
   "format": "png",
